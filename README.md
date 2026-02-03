@@ -6,7 +6,11 @@ I’m [**Christian**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a20808
 - C/C++ mainly
 - Low-level computing
 - Reverse engineering
+---
 
+**Some stuff I built:**
+- [Ascii art generator](https://github.com/ChristianLuci/AsciiArtGenerator) -  A basic ascii art generator from an image
+  
 ---
 
 **Fun Facts:**
