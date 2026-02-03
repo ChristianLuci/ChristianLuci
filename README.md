@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there! <img src="https://media.tenor.com/RoLRxf8N3MIAAAAj/miku-wave.gif" width="25"/> 
 
-<!--
-**ChristianLuci/ChristianLuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Christian**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d27c23207346acb), a backend engineer based in Spain. I like building small projects from time to time
 
-Here are some ideas to get you started:
+**These days I’m focused on:**
+- C/C++ mainly
+- Low-level computing
+- Reverse engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Fun Facts:**
+
+* Coffe team for the win ☕
+* Konosuba is peak anime
+* **Hobbies:** anime & gym
