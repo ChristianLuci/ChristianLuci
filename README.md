@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.tenor.com/RoLRxf8N3MIAAAAj/miku-wave.gif" width="25"/> 
 
-I’m [**Christian**](https://mirayatech.notion.site/Miraya-Tech-2fa175720a2080879d27c23207346acb), a backend engineer based in Spain. I like building small projects from time to time
+I’m [**Christian**](https://www.linkedin.com/in/christian-paolo-luci-p%C3%A9rez-960609368/), a backend engineer based in Spain. I like building small projects from time to time
 
 **These days I’m focused on:**
 - C/C++ mainly
